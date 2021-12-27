@@ -1,0 +1,130 @@
+@media (max-width: 1199px){
+	.banner-area h1:after{right: 75px;}
+	.video-txt{padding: 0 15px; font-size: 30px;}
+	.letter-txt-area{padding: 80px;}
+	.spend-year-inner h2, .spend-year-inner h3{font-size: 32px;}
+	.spend-year-inner-box{font-size: 15px; padding: 10px;}
+	.spend-year-inner h4{margin-bottom: 40px;}
+	.promise-left { width: 430px; height: 430px;}
+	.promise-leftimg {width: 330px; height: 330px;}
+	.logo-left{justify-content: center;}
+	.promise-left:after{left: -20px;}
+	.logo-area h2{text-align: center; margin-bottom: 30px;}
+	.ziczac-left{padding-right: 20px;}
+	.ziczac-right{padding-left: 20px;}
+	.ziczac-inner:nth-child(even) .ziczac-right {padding-right: 20px;}
+	.ziczac-inner:nth-child(even) .ziczac-left {padding-left: 20px;}
+	.bonus-bmobile-area{width: 480px;}
+	.bonus-bmobile{width: 350px;}
+	.black-label{font-size: 50px;}
+	.bonus-inner-bottom{padding-left: 360px;}
+	.money-back-sec{padding: 50px 50px 100px 50px;}
+	.questions-yellowtxt{font-size: 30px; width: 100%;}
+	.money-back-sec2{padding: 50px;}
+	.money-back-top-left{width: 70%;}
+	.money-back-img2{width: 30%;}
+	.spend-year-inner.spend-year-right .spend-year-inner-box{margin-top: 50px;}
+	.video-icon{width: 100px !important;}
+	.video-pop-inner {width: 95%;}
+	.spend-year-inner{height: auto !important;}
+}
+@media (max-width: 991px){
+	.banner-area h1:after {right: 50px;}
+	.video-txt{font-size: 22px;}
+	.spend-year-inner{margin-bottom: 50px;}
+	.promise-inner{flex-direction: column;}
+	.promise-inner .left{width: 100%; padding: 0;}
+	.promise-inner .right{width: 100%; padding: 0px;}
+	.promise-left{margin: 30px auto 0 auto; display: block;}
+	.promise-left{width: 530px; height: 530px;}
+	.promise-leftimg{width: 430px; height: 430px;}
+	.spend-year-sec{padding: 80px 0 100px;}
+	.logo-left img{margin: 20px;}
+	.just-tips-inner-txt{flex-direction: column;}
+	.tip-left{width: 100%;  padding: 0; margin-bottom: 30px;}
+	.tip-right{width: 100%;  padding: 0;}
+	.just-tips-inner-txt:nth-child(odd) .tip-right{padding: 0px;}
+	.just-tips-inner-txt:nth-child(odd) .tip-left{padding: 0px; order: 0;}
+	.ziczac-inner{flex-direction: column;}
+	.ziczac-left{width: 100%; padding: 0px;}
+	.ziczac-right{width: 100%; padding: 0px;}
+	.ziczac-inner:nth-child(even) .ziczac-left{padding: 0px; order: 0;}
+	.ziczac-inner:nth-child(even) .ziczac-right{padding: 0px;}
+	.ziczac-inner:nth-child(even) .ziczac-left:after{background: url(../images/i1-a.png) left top no-repeat; background-size: 100% 100%; width: 180px; height: 218px; left: auto; right: 0px;}
+	.ziczac-inner:nth-child(odd) .ziczac-left:after{bottom: -50px;}
+	.ziczac-inner:nth-child(odd) .ziczac-left:after{left: auto; right: 0; }
+	.ziczac-left img{margin-top: 0px;}
+	.ziczac-inner:last-child .ziczac-left:after{display: block;}
+	.bonus-inner-txt{flex-direction: column;}
+	.bonus-txt-left{width: 100%; padding: 0px; margin: 30px 0; display: flex;}
+	.bonus-bmobile-area{margin: 0 auto; }
+	.bonus-txt-right{width: 100%; padding: 0px;}
+	.bonus-inner-bottom{padding-left: 100px;}
+	.bonus-inner-bottom h4:before{width: 60px; height: 85px; top: 0;}
+	.bonus-inner-bottom h4{padding-left: 0}
+	.client-txt-area{width: 48%;}
+	.yellow-circle{width: 400px; height: 400px;}
+	.yellow-circle:before{width: 350px; height: 350px;}
+	.questions-yellowtxt{font-size: 25px;}
+	.questions-asked-bottom{padding: 0 20px;}
+	.money-back-sec2-area{margin: 0px 0 80px 0;}
+	.money-back-sec, .money-back-sec2{padding: 30px;}
+	.money-back-sec2 .questions-yellowtxt{padding: 0 10px; font-size: 20px;}
+	.faqs-txt li h2{margin-bottom: 20px;}
+	.faqs-txt li{margin-bottom: 50px;}
+	
+}
+@media (max-width: 767px){
+	.banner-area h1{font-size: 50px; line-height: 50px;}
+	.banner-area h1:after{right: 0; top: 0;}
+	.video-txt{height: auto; line-height: 30px; padding: 15px;}
+	.video-icon{width: 80px !important;}
+	.letter-txt-area{padding: 60px;}
+	.spend-year-sec{padding: 50px 0 80px 0; }
+	.promise-inner .right{margin-top: -50px;}
+	.logo-area{margin: 30px 0 50px 0;}
+	.tip-left-inner{padding: 20px;}
+	.steps-sec{padding-bottom: 50px;}
+	.full-package-sec{padding: 50px 0;}
+	.ziczac-inner:first-child .ziczac-left:before, .ziczac-inner:nth-child(even) .ziczac-left:after, .ziczac-inner:nth-child(odd) .ziczac-left:after{display: none;}
+	.client-txt-area{width: 100%;}
+	.questions-asked-inner{padding: 30px;}
+	.questions-yellowtxt{height: auto; line-height: 30px; padding: 15px;}
+	.sevenbg-sec-inner{padding: 30px;}
+	.spend-year-sec{padding: 0px 0 80px 0;}
+	.money-back-top, .money-back-top2{flex-direction: column;}
+	.money-back-top h3{width: 100%; margin-bottom: 30px;}
+	.money-back-img{text-align: center;}
+	.money-back-img{width: 100%;}
+	.money-back-top-left{width: 100%;}
+	.money-back-img2{width: 100%; text-align: center;}
+	.money-back-sec2 .questions-yellowtxt{height: auto; line-height: 30px; padding: 15px;}
+	.faqs-txt li{width: 100%; margin-right: 0px;}
+	.letter-area{margin-bottom: 50px;}
+}
+@media (max-width: 575px){
+	.banner-area{background-size: cover !important; background-position: center top !important;}
+	.banner-area h1{font-size: 40px; line-height: 40px;}
+	.banner-area h1:after{width: 60px; top: -15px;}
+	.promise-left {width: 280px; height: 280px;}
+	.promise-leftimg {width: 250px; height: 250px;}
+	.promise-left:after{top: -50px;}
+	.spend-year-sec { padding: 0px 0 20px 0;}
+	.promise-inner .right { margin-top: 0;}
+	.logo-left img:last-child{margin-right: 20px;}
+	.just-tips-inner{width: 95%;}
+	.just-tips-inner:after{right: -6%; top: 30px; padding: 20px 20px 20px 40px;}
+	.yellow-circle { width: 280px; height: 280px;}
+	.yellow-circle:before{width: 250px; height: 250px;}
+	.ziczac-area h2{margin-bottom: 0px;}
+	.bonus-bmobile-area{width: 280px;}
+	.bonus-bmobile { width: 230px; margin: 0 20px 0 auto;}
+	.black-label{font-size: 30px;}
+	.questions-asked-inner{padding: 20px;}
+	.video-close {width: 30px;height: 30px;}
+}
+@media (max-width: 375px){
+	.banner-area h1:after{top: 50px;}
+	.logo img{width: 95%;}
+	.video-icon {width: 50px !important;}
+}
